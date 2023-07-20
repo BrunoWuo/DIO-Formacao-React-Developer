@@ -1,2 +1,5 @@
-# DIO-Formacao-React-Developer
-Repositório Formação React Developer - DIO
+# Formacao-React-Developer - DIO
+### Repositório Formação React Developer - DIO
+
+### Tecnologias
+- React
